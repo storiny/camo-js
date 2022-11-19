@@ -1,5 +1,9 @@
 # camo-js
 
+<p align="center">
+  <img width="720" height="360" src="https://raw.githubusercontent.com/storiny/camo-js/main/assets/banner.png">
+</p>
+
 ## About
 Original implementation: [atmos/camo](https://github.com/atmos/camo).
 
