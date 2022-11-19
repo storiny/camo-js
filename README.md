@@ -1,7 +1,7 @@
 # camo-js
 
 <p align="center">
-  <img width="720" height="360" src="./assets/banner.png">
+  <img src="./assets/banner.png" alt="">
 </p>
 
 ## About
