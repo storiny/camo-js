@@ -39,7 +39,9 @@ An [`encodeHex`](https://github.com/storiny/camo-js/blob/main/src/utils/encode/i
 ## Environment
 
 `CAMO_PORT`: The port that the Camo server will listen to. (Default: `8081`)
+
 `CAMO_KEY`: A shared key consisting of a random string, used to generate the HMAC digest.
+
 `CAMO_URI`: The public URI of the Camo server. (Default: `http://localhost:8081`)
 
 ## Development
