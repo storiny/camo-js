@@ -1,7 +1,7 @@
 # camo-js
 
 <p align="center">
-  <img width="720" height="360" src="https://raw.githubusercontent.com/storiny/camo-js/main/assets/banner.png">
+  <img width="720" height="360" src="./assets/banner.png">
 </p>
 
 ## About
