@@ -32,7 +32,7 @@ The URL format follows the syntax below:
 http://server.com/<digest>/<encoded-image-url>
 ```
 
-The \<digest\> is a 40 character hex encoded HMAC digest generated with a shared secret key and the unescaped \<encoded-image-url\> value. The <encoded-image-url> is the absolute URL locating an image. Each byte of the <encoded-image-url> should be hex encoded such that the resulting value includes only characters `[0-9a-f]`.
+The \<digest\> is a 40 character hex encoded HMAC digest generated with a shared secret key and the unescaped \<encoded-image-url\> value. The \<encoded-image-url\> is the absolute URL locating an image. Each byte of the <encoded-image-url> should be hex encoded such that the resulting value includes only characters `[0-9a-f]`.
 
 An [`encodeHex`](https://github.com/storiny/camo-js/blob/main/src/utils/encode/index.ts) function is exposed from the `utils` directory to generate digest and encoded url from an insecure url.
 
