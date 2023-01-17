@@ -27,6 +27,7 @@ const MIME_TYPES = [
   "image/vnd.wap.wbmp",
   "image/vnd.xiff",
   "image/webp",
+  "image/avif",
   "image/x-cmu-raster",
   "image/x-cmx",
   "image/x-icon",
